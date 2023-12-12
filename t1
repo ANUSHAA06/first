@@ -1,6 +1,10 @@
 #include<stdio.h>
 main(){
-add();
+add(){
+int a=0;
+int b=100;
+int c= a+b;
+}
 sub();
 div();
 mul();
