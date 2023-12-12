@@ -8,6 +8,7 @@ int c= a+b;
 sub(){
 a-b;
 printf(a-b);
-div();
+div(){
+a/b;
 mul();
 }
