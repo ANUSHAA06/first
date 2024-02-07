@@ -9,8 +9,13 @@ sub(){
 a-b;
 printf(a-b);
 div(){
+
+a/b;hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+=======
+=======
 a/b;
-=======kllllllllllllllllllllllllllllllllll
+
+
 div();
 
 mul();
